@@ -140,6 +140,10 @@ a:after {
 	border-color: transparent;
 }
 
+.navbar-collapse{
+	background-color: #AA3939;
+}
+
 .progress-bar-theme {
   background-color: #1abc9c;
 }
